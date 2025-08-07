@@ -86,11 +86,8 @@ Have I been pwned? is a widely trusted platform that allows users to check if th
 
 ### Data Broker Removal Tool
 
-#### [Mozilla Monitor](https://monitor.firefox.com/)
-Mozilla Monitor allows users to check if their email addresses have been part of known data breaches. It also provides recommendations on steps to take if your email address is found in a breach.
-
-#### [DeleteMe](https://joindeleteme.com/)
-DeleteMe, offered by Abine, is a subscription service that assists users in removing their personal information from data broker websites. It actively monitors and removes personal data from these sites to help users reclaim their online privacy.
+## [Automatic-Data-Broker-Opt-Out-Service-Comparison](https://github.com/Jeyso215/Automatic-Data-Broker-Opt-Out-Service-Comparison)
+A comprehensive and evolving comparison of data broker opt-out services in 2025, focused on effectiveness, cost, ease of use, and transparency. Protect your privacy by making informed decisions.
 
 ### Websites, Apps & Files Safety Check
 
@@ -116,13 +113,10 @@ Offers a clever bypass for digital paywalls by allowing users to prepend `12ft.i
 #### [GrapheneOS Auditor](https://grapheneos.org/features#auditor)
 Utilizes hardware security features to check the integrity of Android devices, verifying that the device runs the official OS without tampering and the bootloader is locked. It's a crucial tool for maintaining device security.
 
-#### [iVerify](https://www.iverify.io/)
-Offers a comprehensive security audit for iPhones and iPads, including continuous monitoring with minimal user input. Features like a quick access widget to security status make it an essential tool for protecting against vulnerabilities.
-
 ### Keyboard
 
-#### [FlorisBoard](https://f-droid.org/en/packages/dev.patrickgold.florisboard/)
-An open-source keyboard focusing on privacy and ease of use, supporting multiple languages and layouts, customizable typing experience, and privacy-respecting features.
+#### [Heliboard](https://github.com/Helium314/HeliBoard)
+Customizable and privacy-conscious open-source keyboard
 
 ### Browser Comparison & Tests
 
@@ -146,14 +140,15 @@ Brave Web Browser is designed to prioritize privacy with features like built-in 
 #### [Mullvad Browser](https://mullvad.net/)
 Developed in collaboration with the Tor Project, Mullvad Browser is a privacy-centric web browser that aims to minimize user tracking and fingerprinting. It leverages the privacy protections of the Tor Browser, without requiring connection to the Tor network, and is intended to be used with a trustworthy VPN for enhanced online privacy. This approach offers a significant privacy advantage, making it a strong contender for users concerned with surveillance and data collection.
 
-#### [LibreWolf](https://librewolf.net/)
-LibreWolf, a fork of Firefox, focuses on privacy, security, and freedom. The browser is built with over 500 privacy/security/performance settings and patches, aiming to minimize data collection and telemetry. LibreWolf stands out for its commitment to user privacy, offering an independent browsing experience free from the telemetry and data collection practices found in mainstream browsers.
+#### [Vanadium](https://github.com/GrapheneOS/Vanadium)
+Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
 
-#### [Firefox Focus](https://www.mozilla.org/firefox/mobile/)
-Firefox Focus provides a streamlined privacy-centric browsing experience on mobile devices. By default, it blocks a wide range of web trackers and makes it easy to erase your browsing history. Focus is designed for users who value simplicity and privacy, ensuring minimal data collection and fast browsing.
+### [Trivalent](https://github.com/secureblue/Trivalent)
+A security-focused, Chromium-based browser for desktop Linux inspired by Vanadium.
 
-#### [Mozilla Firefox](https://www.mozilla.org/firefox/new/)
-Mozilla Firefox is a free and open-source web browser known for its extensibility, privacy features, and commitment to user freedom. The Quantum update has significantly improved Firefox's speed and efficiency, making it a competitive option for users who prioritize customization and privacy.
+### [Zen Browser](https://zen-browser.app/)
+Zen is a firefox-based browser with the aim of pushing your productivity to a new level!
+
 
 ### Browser Extensions
 
@@ -174,11 +169,8 @@ Designed to limit Facebook's ability to track your activity across the web, the 
 #### [Brave Search](https://search.brave.com/)
 Brave Search offers a privacy-focused search engine with its own index. It does not track users, searches, or clicks, aiming to provide an alternative to the ad-driven models of other search engines. Brave Search emphasizes user privacy, transparency in ranking results, and aims to offer ad-free or ad-supported search options.
 
-#### [Mojeek](https://www.mojeek.com/)
-Mojeek stands out as an independent search engine with a non-tracking privacy policy. It uses its own index to provide search results, offering a unique alternative to other search engines that rely on major providers' indexes.
-
-#### [DuckDuckGo](https://duckduckgo.com/)
-DuckDuckGo prioritizes user privacy by not tracking search history or personal information. It offers clean, relevant search results without the personalization based on tracking, providing a more private alternative to traditional search engines.
+### [Kagi Search](https://kagi.com)
+Better search results with no ads. Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power back to the user.
 
 #### [Startpage](https://www.startpage.com/)
 Startpage uses Google's search results but removes trackers and logs, offering private search experiences. It does not store or share personal information, allowing users to search without targeted ads or tracking.
@@ -197,9 +189,6 @@ training or sharing them.
 #### [Bitwarden](https://bitwarden.com/)
 Bitwarden is an open-source password manager that provides an easy and safe way to store and sync your passwords across all devices. It emphasizes security with end-to-end encryption, ensuring that only you have access to your data.
 
-#### [Proton Pass](https://proton.me/pass)
-Developed by the team behind Proton Mail, Proton Pass is a password manager that focuses on secure encryption and privacy. It aims to make password management secure and accessible, with a strong emphasis on user privacy.
-
 #### [KeePassXC](https://keepassxc.org/)
 KeePassXC is a community-driven fork of KeePassX, offering a cross-platform, secure, and open-source password manager. It's designed to store all your passwords in one encrypted database, locked with one master key or a key file for enhanced security.
 
@@ -210,7 +199,7 @@ Bitwarden Send provides a secure way to share sensitive information temporarily.
 
 ### Multi-Factor Authentication
 
-#### [ente Authenticator](https://ente.io/authenticator)
+#### [ente Authenticator](https://ente.io/auth)
 ente Authenticator provides a secure and convenient way to generate and manage 2FA tokens across devices. It offers end-to-end encrypted cloud backups and multi-device sync, ensuring that your tokens are safe and accessible anywhere. The app supports offline token generation, QR code scanning, manual entry, and bulk import/export, making it a versatile tool for enhancing account security.
 
 
@@ -234,45 +223,23 @@ Nitrokey is an open-source USB key that facilitates highly secure encryption and
 #### [SimpleX Chat](https://simplex.chat/)
 SimpleX Chat is a highly private and secure chat platform, now enhanced with double ratchet E2E encryption. It offers complete privacy, security, and ownership of your contacts and chat data, with protections for your messages and metadata. SimpleX is designed to give users full control over their communication, ensuring total privacy in messaging.
 
-#### [Session](https://getsession.org/)
-Session is a privacy-focused messenger that operates on a decentralized network of user-operated servers, eliminating central points of failure and data breaches. It offers anonymous account creation, no metadata logging, and IP address protection. Session's private routing protocols ensure complete anonymity, making it a standout choice for secure and private communication.
-
-#### [Signal](https://signal.org/)
-Signal is renowned for its end-to-end encryption, offering secure messaging, voice, and video calls. It prioritizes user privacy, with no data storage or tracking, ensuring that your communication remains confidential. Signal's open-source code base and strong encryption protocols make it one of the most trusted messaging apps for privacy-conscious users.
-
-#### [Threema](https://threema.ch/)
-Threema offers end-to-end encrypted messaging, ensuring that only the intended recipient can read your messages. It emphasizes privacy and security, requiring no phone number or email for account creation, and offers features like encrypted voice calls, group chats, and file sharing. Threema's commitment to data minimization and user privacy makes it a popular choice for secure communication.
-
 ### Email
 
-#### [Proton Mail](https://proton.me/mail)
-Proton Mail offers secure, encrypted email services, with servers located in Switzerland for maximum privacy protection. It features end-to-end encryption, ensuring that only the sender and recipient can access email content. Proton Mail's emphasis on privacy and security, without sacrificing convenience, makes it a leading choice for secure email communication.
-
-#### [Tutanota](https://tutanota.com/)
-Tutanota provides a highly secure email service with end-to-end encryption for emails, contacts, and calendars. It offers a privacy-focused alternative to mainstream email providers, with open-source clients and a commitment to not tracking users. Tutanota's encrypted calendar and easy-to-use interface cater to both personal and professional use, emphasizing user privacy and data security.
+### [StartMail](https://startmail.com)
+StartMail keeps your inbox secure, private, and spam-free. No tracking, no profiling – just secure emailing with unlimited disposable addresses and one-click encryption.
 
 ### Calendar
 
-#### [Proton Calendar](https://proton.me/calendar)
-Proton Calendar secures your schedule with end-to-end encryption, ensuring that your events and appointments remain private. It integrates seamlessly with Proton Mail for a unified privacy-focused experience, offering features expected from a modern calendar while prioritizing user data protection.
-
-#### [Tutanota Calendar](https://tutanota.com/calendar/)
-Tutanota Calendar is an encrypted calendar application, designed to keep your appointments private and secure. As a part of Tutanota's suite of privacy-focused services, the calendar is fully integrated with their secure email offering. It provides a seamless, encrypted solution for managing your schedule, without compromising on privacy. With Tutanota Calendar, your events are encrypted end-to-end, ensuring that only you have access to your schedule.
-
-#### [Nextcloud Calendar](https://nextcloud.com/products/calendar/)
-Nextcloud Calendar is a user-friendly interface for Nextcloud's CalDAV server, allowing for easy synchronization and management of events across devices. It integrates with other Nextcloud apps like Contacts, offering
-a private and secure solution for calendar management within the Nextcloud ecosystem.
+#### [Fossify Calender](https://github.com/FossifyOrg/Calendar)
+A simple calendar with events, customizable widgets and no ads.
 
 ### Photos & Videos
 
 #### [ente Photos](https://ente.io/)
 ente Photos is a secure platform for backing up and sharing photos and videos, with end-to-end encryption to ensure privacy. It offers original quality backups, collaborative albums, and shared folders, among other features, with a focus on preserving your memories safely and privately.
 
-#### [PhotoPrism](https://photoprism.app/)
-PhotoPrism is an AI-powered photo app for organizing and sharing your photos privately. It uses advanced technologies for automatic tagging and finding pictures, offering a secure and user-friendly alternative for managing your photo collection without compromising on privacy.
-
-#### [Piwigo](https://piwigo.org/)
-Piwigo is an open-source photo gallery software for the web, offering powerful features to publish and manage your collection of pictures securely. It provides a customizable platform for photographers, organizations, and teams to store, categorize, and share their photos with flexibility and control over privacy.
+#### [Cryptee](https://crypt.ee/)
+Cryptee is a privacy-focused platform for encrypted document editing and photo storage. It offers a secure environment for your personal data, using industry-leading encryption algorithms to protect your documents and images. With Cryptee, you have a private and secure space to store important files, photos, and documents online, ensuring they remain accessible only to you.
 
 ### Secure QR Code Scanner
 
@@ -281,11 +248,8 @@ Binary Eye is an intuitive and efficient QR code scanner that works seamlessly i
 
 ### Cloud
 
-#### [Proton Drive](https://proton.me/drive)
-Proton Drive offers a secure vault for your files with end-to-end encryption, ensuring unmatched privacy. This Swiss-based cloud storage solution protects your data with the same robust encryption protocols used by Proton Mail, making it virtually impossible for anyone but you to access your files. Proton Drive's focus on privacy, security, and user control makes it a leading choice for secure cloud storage.
-
-#### [Cryptee](https://crypt.ee/)
-Cryptee is a privacy-focused platform for encrypted document editing and photo storage. It offers a secure environment for your personal data, using industry-leading encryption algorithms to protect your documents and images. With Cryptee, you have a private and secure space to store important files, photos, and documents online, ensuring they remain accessible only to you.
+### [Filen](https://filen.io)
+Reliable zero-knowledge, client-side encrypted cloud storage you can trust and experience uncompromised security without sacrificing functionality.
 
 #### [Nextcloud](https://nextcloud.com/)
 Nextcloud offers a self-hosted cloud solution for file storage, collaboration, and communication. It's an open-source platform designed to give you full control over your data, with a strong emphasis on privacy and security. Nextcloud's wide range of features and apps, including file sharing, calendar, contacts, and more, make it a comprehensive solution for personal or enterprise use.
@@ -295,11 +259,6 @@ Nextcloud offers a self-hosted cloud solution for file storage, collaboration, a
 #### [VSCodium](https://vscodium.com/)
 VSCodium is a community-driven, freely-distributed version of Microsoft's Visual Studio Code. It offers the same features and user experience but without telemetry and proprietary licensing. VSCodium provides an open-source alternative for developers looking for a powerful and privacy-respecting code editor.
 
-### Code Hosting
-
-#### [Codeberg](https://codeberg.org/)
-Codeberg offers a non-profit, community-driven platform for hosting open-source projects. It emphasizes independence and privacy, avoiding dependencies on commercial services to ensure freedom and reliability for developers. Codeberg is dedicated to providing a collaborative environment for open-source development, supported by a mission to keep free code accessible and secure.
-
 ### Torrenting
 
 #### [qBittorrent](https://www.qbittorrent.org/)
@@ -307,23 +266,14 @@ qBittorrent is a free and open-source torrent client, designed as an alternative
 
 ### Social Networks
 
-#### [Mastodon](https://mastodon.social/)
-Mastodon is a federated social network, promoting free speech and user privacy through a network of decentralized instances. It offers an ad-free, algorithm-free platform for microblogging, emphasizing user control and community governance.
-
-#### [Pixelfed](https://pixelfed.org/)
-Pixelfed is an ad-free, privacy-centric image-sharing platform and a federated alternative to Instagram. It supports open protocols and offers a decentralized approach to photo sharing, prioritizing user privacy and control over content.
-
 #### [Minds](https://www.minds.com/)
 Minds is an open-source social network designed for freedom of expression and user privacy. It offers a decentralized platform for content sharing, encrypted messaging, and community engagement, with a focus on earning crypto rewards and maintaining control over personal data.
 
-#### [Amethyst Nostr](https://amethystnostr.com/)
-Amethyst brings the Nostr decentralized social network protocol to Android, offering a platform for free and secure communication. It supports features like account management, notifications, and private messages, emphasizing user privacy and control over data.
+### [Telegram](https://telegram.org)
+Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
 
-#### [Damus](https://damus.io/)
-Damus is a decentralized social network empowering users with control over their communication and data. Built on the Nostr protocol, it ensures freedom from censorship and surveillance, offering a secure and user-controlled platform for social interaction.
-
-#### [Bluesky](https://blueskyweb.org/)
-Bluesky is a microblogging social network built on the AT Protocol, aiming to provide a decentralized platform for free expression and user control. It emphasizes privacy, open-source development, and community governance, offering an alternative to traditional social media platforms.
+### [Twitter/X](https://x.com)
+From breaking news and entertainment to sports and politics, get the full story with all the live commentary.
 
 ### Dating
 
@@ -332,8 +282,8 @@ Alovoa is an open-source, privacy-focused platform for meeting new people, inclu
 
 ### Notes
 
-#### [Standard Notes](https://standardnotes.com/)
-Standard Notes is a simple, encrypted notes app designed for privacy and longevity. It offers end-to-end encryption for your notes, ensuring they remain private, secure, and accessible across all your devices. With a focus on simplicity and encryption, Standard Notes is a durable place for your thoughts, ideas, and daily tasks.
+#### [Lunatask](https://lunatask.app)
+Lunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app. It remembers stuff for you and keeps track of your mental well-being 🌟
 
 #### [Notesnook](https://notesnook.com/)
 Notesnook is a private, encrypted notes app that keeps your notes organized and synced across all devices. It emphasizes user privacy with strong encryption, ensuring that your notes are visible only to you. Notesnook offers a secure space for your writings, ideas, and lists, with a user-friendly interface and cross-platform support.
@@ -345,12 +295,6 @@ Joplin is an open-source note-taking and to-do application with capabilities for
 Nextcloud Notes is a straightforward app for note-taking, integrated within the Nextcloud ecosystem. It supports markdown syntax and offers a clean, distraction-free interface for writing and organizing notes. With Nextcloud's focus on security and privacy, your notes benefit from the same level of protection as all your other Nextcloud data.
 
 ### Video Conference
-
-#### [Calyx Meet](https://meet.calyxinstitute.org/)
-Calyx Meet is a secure and private video conferencing tool based on Jitsi, offering end-to-end encryption without time limits or personal information requirements. It's hosted by the Calyx Institute, emphasizing privacy and security for all communications.
-
-#### [Brave Talk](https://brave.com/talk/)
-Brave Talk is a privacy-centric video conferencing feature within the Brave browser, offering unlimited, encrypted video calls without additional apps or tracking. It's built on the open-source Jitsi platform and available for free or with premium features for larger groups.
 
 #### [Jitsi Meet](https://meet.jit.si/)
 Jitsi Meet is an open-source, fully encrypted video conferencing solution that can be used for free, with no account needed. It supports web and mobile platforms, offering features like screen sharing, file sharing, and live streaming without compromising privacy.
@@ -366,14 +310,8 @@ The SPN by Safing offers a distributed, multi-identity VPN solution, focusing on
 #### [Mullvad](https://mullvad.net/)
 Mullvad VPN emphasizes privacy and anonymity, allowing users to sign up without personal information and pay anonymously. It supports WireGuard and OpenVPN, offering a strong stance on user privacy with a simple, flat-rate pricing model.
 
-#### [Proton VPN](https://protonvpn.com/)
-Proton VPN is a security-focused VPN service from the team behind ProtonMail. It offers strong encryption, a no-logs policy, and is based in Switzerland, benefiting from strong privacy laws. It's available on multiple platforms, including a free version.
-
 #### [IVPN](https://www.ivpn.net/)
 IVPN is a VPN service that prioritizes privacy and security, offering advanced features like anti-tracking, multi-hop connections, and full disk encryption on all servers. It operates under a strict no-logs policy, ensuring user data is protected.
-
-#### [Mozilla VPN](https://vpn.mozilla.org/)
-Mozilla VPN, powered by Mullvad, provides a secure and private internet connection on various devices. It emphasizes simplicity, device-wide encryption, and is backed by a non-profit fighting for your online privacy.
 
 ### Anonymizing Networks
 
@@ -450,9 +388,6 @@ Invidious is an alternative front-end to YouTube that prioritizes privacy and mi
 
 ### Android App Stores
 
-#### [F-Droid](https://f-droid.org/)
-F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
-
 #### [Aurora Store](https://auroraoss.com/)
 Aurora Store is an unofficial, open-source client for Google's Play Store with privacy and design in mind. It allows users to download apps directly from Google's servers, providing an alternative for users seeking to avoid Google's ecosystem.
 
@@ -478,21 +413,21 @@ Picocrypt is a tiny, secure file encryption tool using the AES-256-GCM algorithm
 #### [Cryptomator](https://cryptomator.org/)
 Cryptomator provides transparent, client-side encryption for your cloud files. It's open-source and designed to secure your documents on cloud storage services without changing the way you work. Cryptomator encrypts files and doesn't care where you store them.
 
-#### [Hat.sh](https://hat.sh/)
+#### [Hat.sh](https://github.com/V4NT-ORG/hat)
 Hat.sh is a web app for secure file encryption using AES-256-GCM. It operates entirely in your browser, encrypting files before they ever leave your computer. Hat.sh is simple, secure, and doesn't require any personal data or files to be
 uploaded to a server.
 
 ### Beginner-Friendly Linux Distros
 
-#### [Pop!_OS](https://pop.system76.com/)
-Pop!_OS is developed by System76 for STEM and creative professionals. It emphasizes creativity and productivity within a secure and privacy-respecting environment. Based on Ubuntu, it offers an out-of-the-box experience with a minimal and elegant design.
-
-#### [Linux Mint](https://linuxmint.com/)
-Linux Mint is known for its simplicity, elegance, and full multimedia support right out of the box. It's an excellent choice for new users, coming with a variety of pre-installed software for everyday use. It's based on Ubuntu and Debian, offering a familiar environment with a unique Cinnamon desktop.
+#### [Solus](https://getsol.us/download/)
+Solus is a fully independent, cohesive, and easy-to-use desktop operating system with curated rolling updates to ensure you always have fresh software.
 
 ### Anti-Virus
 
-#### [ClamTk](https://dave-theunsub.github.io/clamtk/)
+#### [ClamAV](https://github.com/Cisco-Talos/clamav)
+ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+
+#### [ClamTk](https://github.com/dave-theunsub/clamtk)
 ClamTk is a graphical front-end for the ClamAV antivirus engine. It's designed to be an easy-to-use, on-demand scanner for Linux systems, providing a simple interface to scan files and directories for malware.
 
 #### [Hypatia Malware Scanner](https://github.com/Divested-Mobile/Hypatia)
@@ -502,12 +437,6 @@ Hypatia is the first open-source, real-time malware scanner for Android, powered
 
 #### [OBS Studio](https://obsproject.com/)
 OBS Studio is a free and open-source software for video recording and live streaming. It's available across multiple platforms and offers high performance with real-time video/audio capturing and mixing.
-
-#### [Liberapay](https://liberapay.com/)
-Liberapay is a donation platform that allows you to support creators and projects you appreciate. It's open-source and non-profit, focusing on recurrent donations without taking a cut from the donations.
-
-#### [Open Collective](https://opencollective.com/)
-Open Collective provides a platform for groups to manage their finances transparently. It's designed for open-source projects, community groups, and non-profits to receive donations and manage expenses openly.
 
 ### Analytics
 
@@ -521,9 +450,6 @@ Matomo, formerly known as Piwik, is a comprehensive, open-source analytics platf
 
 #### [Monero](https://www.getmonero.org/)
 Monero is a privacy-focused cryptocurrency that ensures your transactions remain confidential and untraceable. It offers security, privacy, and fungibility by obscuring sender, recipient, and amount of every transaction made.
-
-#### [Zcash](https://z.cash/)
-Zcash offers privacy and selective transparency in transactions. It encrypts the contents of transactions while still allowing them to be verified under the network's consensus rules using zero-knowledge proofs.
 
 #### [Monero GUI Wallet](https://www.getmonero.org/downloads/)
 The official Monero desktop wallet, which provides a graphical interface for using Monero, allowing users to manage their funds and transactions with ease.
@@ -541,11 +467,7 @@ Trezor Suite is a desktop and web application designed to work with Trezor hardw
 
 ### Email Client
 
-#### [Thunderbird](https://www.thunderbird.net/)
-Thunderbird is a free, open-source email client from Mozilla. It offers features like email, calendar, news, and chat functionality, focusing on user privacy and customization.
-
-#### [K-9 Mail](https://k9mail.app/)
-K-9 Mail is an open-source email client for Android that supports multiple accounts, search, IMAP push email, multi-folder sync, flagging, and more.
+### [FailMail](https://github.com/M66B/FairEmail)
 
 ### File Sharing & Syncing
 
@@ -559,22 +481,16 @@ Syncthing is an open
 
 ### Video Streaming
 
-#### [PeerTube](https://joinpeertube.org/)
-PeerTube is a decentralized video platform that uses peer-to-peer technology to reduce server load and increase privacy. It allows creators to host their videos and federate with other instances, promoting a decentralized video-sharing network.
-
-#### [TILvids](https://tilvids.com/)
-TILvids is a video community focusing on edutainment content. It's ad-free and relies on donations, providing an alternative platform for educational and informative videos.
-
 #### [Odysee](https://odysee.com/)
 Odysee is a content-sharing platform built on the lbry protocol, offering an alternative to traditional video platforms. It focuses on creator freedom and viewer choice, providing a decentralized solution for video sharing.
+
+#### [Kick](https://kick.com)
+Kick is a video live streaming service. Known for its focus on looser moderation and higher revenue shares for streamers, it offers a 5% revenue charge, among the lowest between streaming platforms.
 
 ### Mobile OS
 
 #### [GrapheneOS](https://grapheneos.org/)
 GrapheneOS is a privacy and security-focused mobile OS with Android app compatibility. It offers significant improvements in data protection, security, and app sandboxing, making it a strong choice for privacy-conscious users.
-
-#### [DivestOS](https://divestos.org/)
-DivestOS is a fork of LineageOS focused on privacy and security enhancements. It removes unnecessary proprietary blobs, patches known vulnerabilities, and includes privacy-focused apps and features.
 
 ### Firewall
 
@@ -612,14 +528,6 @@ ONLYOFFICE is an open-source office suite that provides online document editing,
 #### [CryptPad](https://cryptpad.fr/)
 CryptPad is a suite of privacy-focused, collaborative editing tools that encrypt your data before sending it to the server. It offers real-time collaboration without compromising user privacy.
 
-### Financial Support Platforms
-
-#### [Liberapay](https://liberapay.com/)
-Liberapay is a non-profit, open-source platform designed for recurrent donations. It enables individuals to financially support creators and projects they appreciate without requiring a cut of the donations. Liberapay emphasizes simplicity, privacy, and direct support between creators and supporters.
-
-#### [Open Collective](https://opencollective.com/)
-Open Collective is a transparency-focused platform that allows collectives, projects, and communities to manage their finances publicly. It supports open-source projects, community initiatives, and non-profits by providing tools for transparent financial management, including handling donations, expenses, and financial reporting. Open Collective helps groups raise funds in an open manner, ensuring donors can see exactly how their contributions are used.
-
 ### Aliases
 
 #### [Privacy.com](https://privacy.com/)
@@ -627,15 +535,6 @@ Privacy.com offers virtual card services allowing users to generate a new card f
 
 #### [SMSPool](https://smspool.net/)
 SMSPool is an online SMS verification service that provides users with non-VoIP phone numbers to protect their personal information during online verifications. It helps users maintain their privacy by offering a way to receive SMS messages without disclosing their real phone numbers, suitable for various online services requiring phone verification.
-
-#### [MySudo](https://mysudo.com/)
-MySudo allows users to create multiple "Sudos," each with its own phone number and email address, for different aspects of their lives such as work, socializing, or online shopping. It offers a way to manage multiple identities, enhancing privacy and security online. Features include customized calling, enhanced messaging, simple email, and compartmentalized browsing, all aimed at protecting user privacy.
-
-#### [SimpleLogin](https://simplelogin.io/)
-SimpleLogin is an open-source service offering email alias creation to protect user privacy. It allows users to use aliases instead of their real email addresses, preventing spam and data breaches. SimpleLogin features include automatic alias creation, easy management, and the ability to send and reply to emails through aliases. It is designed for users seeking to protect their email communication and personal information.
-
-#### [Firefox Relay](https://relay.firefox.com/)
-Firefox Relay is a service provided by Mozilla that allows users to create temporary email aliases for online signups, protecting their real email addresses from spam and data breaches. It helps maintain user privacy by masking their actual email addresses with aliases, which can be easily managed or deleted. Firefox Relay emphasizes user privacy and control over their online presence.
 
 #### [addy.io](https://addy.co/)
 Addy.io is an anonymous email forwarding service that enables users to create email aliases to protect their privacy. It helps shield real email addresses from spam, tracking, and unauthorized access by providing a layer of anonymity. Users can manage aliases, deactivate or delete them if compromised, and even encrypt inbound emails using GPG/OpenPGP encryption for enhanced privacy and security.
@@ -656,35 +555,23 @@ Qwant Maps is a privacy-focused mapping service that uses OpenStreetMap data. It
 
 ### Link in Bio
 
-#### [BioDrop](https://biodrop.me/)
-BioDrop is a platform for tech professionals to create a single hub for showcasing their content, projects, and social media profiles. It helps users manage their online presence in one place while contributing to an open-source project and being part of a community.
+#### [LinkStack](https://github.com/LinkStackOrg/LinkStack)
+LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
 
 ### Translate
 
 #### [Brave Translate](https://brave.com/)
 Brave Translate, integrated into the Brave browser, offers privacy-respecting translation of web pages into multiple languages. It ensures translations are performed locally on the device, protecting users' data from being sent to external servers.
 
-#### [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
-Firefox Translations is an add-on for Firefox that provides local, client-side translations of web content. It aims to offer privacy-friendly translations without sending data to external servers, supporting multiple languages.
-
-#### [LibreTranslate](https://libretranslate.com/)
-LibreTranslate is an open-source, self-hostable translation API that offers free and private translations. It supports multiple languages and can be integrated into various applications, providing a privacy-friendly alternative to traditional translation services.
+### [Kagi Translate](https://translate.kagi.com)
 
 ### Captcha
 
-#### [hCaptcha](https://www.hcaptcha.com/)
-hCaptcha is a privacy-focused captcha service that helps websites block bots and automated abuse. It offers a way to improve website security and user verification processes while also providing a revenue model for website operators.
+
 
 ### Domain & Web Hosting
 
-#### [Njalla](https://njal.la/)
-Njalla is a privacy-aware domain registration service that purchases domains on behalf of its customers, providing an additional layer of anonymity. It offers various domain-related services with a focus on user privacy and security.
 
-#### [OrangeWebsite](https://www.orangewebsite.com/)
-OrangeWebsite offers green, privacy-focused web hosting and domain registration services. Based in Iceland, it benefits from strong data protection laws and uses renewable energy sources for its data centers.
-
-#### [1984 Hosting](https://www.1984hosting.com/)
-1984 Hosting is an Iceland-based web hosting provider emphasizing freedom of speech, privacy, and green hosting solutions. It offers various hosting services, including shared, VPS, and dedicated servers, using renewable energy.
 
 ### Food
 
